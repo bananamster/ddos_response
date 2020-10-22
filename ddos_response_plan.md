@@ -7,15 +7,15 @@ List if your qualified incident controllers
 
 Name | Contact Details
 -----------|-----------
-Alice | 
-Bob | 
-Eva |
+_Alice_ | 
+_Bob_ | 
+_Eva_ |
 
 
 ### As incident controller make a quick assessment of the situation and impact.
 
-Incident Controller name | 
--------------------|-----------------------
+Incident Controller name | _Alice_
+-------------------------|-----------------------
 Date | 
 Situation | 
 Impact | 
