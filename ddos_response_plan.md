@@ -1,5 +1,5 @@
 # DDoS Incident Response Plan
-**DON'T PANIC!**
+
 
 ## Incident Controller
 The incident controller has full authority to respond to the DDoS incident.
@@ -10,7 +10,6 @@ Name | Contact Details
 _Alice_ | 
 _Bob_ | 
 _Eva_ |
-
 
 ### As incident controller make a quick assessment of the situation and impact.
 
@@ -57,6 +56,7 @@ Service/Communications/upstream provider DDoS mitigation capabilities: | Remotel
 Alternative links/providers | 
 
 ## Post-incident review and improvements
-* Porduce the incidet repoert
-* Include what went well what did not go well
+* Porduce the incidet repoert (Include what went well what did not go well).
 * Outline a list of actions to improve on, assign owners and due dates.
+* Conduct internal post incidet review with internal stakeholders/owners.
+* Distribute copy of the report to the intersted parties (redacted version of the report if nessesary).
