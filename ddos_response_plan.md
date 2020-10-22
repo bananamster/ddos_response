@@ -10,7 +10,7 @@ _Alice_ |
 _Bob_ | 
 _Eva_ |
 
-### As incident controller make a quick assessment of the situation and impact.
+### As the incident controller make a quick assessment of the situation and impact.
 Filed | Details
 -------------------------|-----------------------
 Name |
@@ -33,14 +33,14 @@ Email list/group |
 * Logistics (if nesseasry)
 
 ## List Interested Parties 
-Depending on obligations the following interested parties have to be notified in case of impacting DDoS attacks:
+Depending on obligations, the following interested parties have to be notified in case of impacting DDoS attacks:
 * Parties that you have legal/regulatory obligations (relevant government agencies)
 * Parties that you have contractual obligations with (customers, partners)
 * Your organisation leadership (Senior Leadership Team)
 * Suppliers
 
 ## List Critical Systems
-* DNS (both autorative and recursive)
+* DNS (both authoritative and recursive)
 * Publicly facing services and APIs
 * Voice
 * Web site
@@ -58,7 +58,7 @@ Service/Communications/upstream provider DDoS mitigation capabilities: | _Remote
 Alternative links/providers | 
 
 ## Post-incident review and improvements
-* Porduce the incidet repoert (Include what went well what did not go well).
+* Produce the incident report (Include what went well what did not go well).
 * Outline a list of actions to improve on, assign owners and due dates.
-* Conduct internal post incidet review with internal stakeholders/owners.
-* Distribute copy of the report to the intersted parties (redacted version of the report if nessesary).
+* Conduct internal post-incident review with internal stakeholders/owners.
+* Distribute a copy of the report to the interested parties (redacted version of the report if necessary).
