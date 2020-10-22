@@ -48,6 +48,8 @@ Depending on obligations the following interested parties have to be notified in
 **Notify your Internet Service/Communications/upstream provider as soon as possible.**
 
 ### Your Internet Service/Communications/upstream provider capabilities and contact details. 
+Field | Value
+-------------------|--------------------
 Contact details: |
 Your links/services capacity: | 
 Service/Communications/upstream provider network capacity: | 
