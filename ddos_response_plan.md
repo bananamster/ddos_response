@@ -3,8 +3,7 @@
 
 ## Incident Controller
 The incident controller has full authority to respond to the DDoS incident.
-List if your qualified incident controllers
-
+List of your qualified incident controllers
 Name | Contact Details
 -----------|-----------
 _Alice_ | 
@@ -12,7 +11,6 @@ _Bob_ |
 _Eva_ |
 
 ### As incident controller make a quick assessment of the situation and impact.
-
 Incident Controller name | _Alice_
 -------------------------|-----------------------
 Date | 
@@ -20,15 +18,18 @@ Situation |
 Impact | 
 
 ### As incident activate standard communications channels:
-* Phone Bridge
-* War room
-* Slack Channel
-* Email list/group
+Channel | Details
+-----------|-----------
+Phone Bridge | 
+War room | 
+Slack Channel | 
+Email list/group | 
 
 ### As incident controller establish response team:
-* Public Information Management (PIM) 
-* Operations Functions
-* Relevant Business units
+* Public Information Mannager (Comms Person)
+* Operations Manager (Ops person)
+* Planning (if nesseasry)
+* Logistics (if nesseasry)
 
 ## List Interested Parties 
 Depending on obligations the following interested parties have to be notified in case of impacting DDoS attacks:
