@@ -39,17 +39,17 @@ Depending on obligations, the following interested parties have to be notified i
 * Your organisation leadership (Senior Leadership Team)
 * Suppliers
 
-## List Critical Systems
+## List Critical Systems and their details
 * DNS (both authoritative and recursive)
 * Publicly facing services and APIs
 * Voice
 * Web site
 
 ## Response and recovery actions
-**Notify your Internet Service/Communications/upstream provider as soon as possible.**
+**Notify your Internet Service/Communications/Upstream/Cloud provider as soon as possible.**
 
-### Your Internet Service/Communications/upstream provider capabilities and contact details. 
-Field | Value
+### Your Internet Service/Communications/Upstream/Cloud provider capabilities and contact details. 
+Provider | Details
 -------------------|--------------------
 Contact details: |
 Your links/services capacity: | 
