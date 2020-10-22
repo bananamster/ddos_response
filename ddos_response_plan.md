@@ -15,6 +15,7 @@ Eva |
 ### As incident controller make a quick assessment of the situation and impact.
 
 Incident Controller name | 
+-------------------|-----------------------
 Date | 
 Situation | 
 Impact | 
