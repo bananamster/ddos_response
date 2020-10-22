@@ -11,8 +11,9 @@ _Bob_ |
 _Eva_ |
 
 ### As incident controller make a quick assessment of the situation and impact.
-Incident Controller name | _Alice_
+ | Details
 -------------------------|-----------------------
+Name |
 Date | 
 Situation | 
 Impact | 
