@@ -52,7 +52,7 @@ Field | Value
 Contact details: |
 Your links/services capacity: | 
 Service/Communications/upstream provider network capacity: | 
-Service/Communications/upstream provider DDoS mitigation capabilities: | Remotely-Triggered Black Hole (RTBH) Routing, Scrubbing, Flowspec mitigations
+Service/Communications/upstream provider DDoS mitigation capabilities: | _Remotely-Triggered Black Hole (RTBH) Routing, Scrubbing, Flowspec mitigations_
 Alternative links/providers | 
 
 ## Post-incident review and improvements
