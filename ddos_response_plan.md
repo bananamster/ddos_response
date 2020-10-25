@@ -49,7 +49,15 @@ Depending on obligations, the following interested parties have to be notified i
 **Notify your Internet Service Provider or/and Hosting Provider as soon as possible.**
 
 ### Your Internet Service Provider or/and Hosting Provider capabilities and contact details. 
-Provider | Details
+Internet Service Provider 1 | Details
+-------------------|--------------------
+Contact details: |
+Your links/services capacity: | 
+Service/Communications/upstream provider network capacity: | 
+Service/Communications/upstream provider DDoS mitigation capabilities: | _Remotely-Triggered Black Hole (RTBH) Routing, Scrubbing, Flowspec mitigations_
+Alternative links/providers | 
+
+Hosting Provider 1 | Details
 -------------------|--------------------
 Contact details: |
 Your links/services capacity: | 
