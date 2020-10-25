@@ -67,7 +67,7 @@ Service/Communications/upstream provider network capacity: |
 Service/Communications/upstream provider DDoS mitigation capabilities: | _Remotely-Triggered Black Hole (RTBH) Routing, Scrubbing, Flowspec mitigations_
 Alternative links/providers | 
 
-Consider in your response:
+### Consider in your response:
 * Objectives to achieve
 * Priorities
 * Resources needed
