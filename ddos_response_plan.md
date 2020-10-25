@@ -30,7 +30,7 @@ Email list/group |
 * Public Information Mannager (Comms Person)
 * Operations Manager (Ops person)
 * Planning (if nesseasry)
-* Logistics (if nesseasry)
+* Logistics/Procurement (if nesseasry)
 
 ## List Interested Parties 
 Depending on obligations, the following interested parties have to be notified in case of impacting DDoS attacks:
