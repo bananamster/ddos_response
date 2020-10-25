@@ -48,7 +48,7 @@ Depending on obligations, the following interested parties have to be notified i
 * Web site
 
 ## Response and recovery actions
-**Notify your Internet Service Provider or/and Hosting Provider as soon as possible.**
+Notify your Internet Service Provider or/and Hosting Provider as soon as possible.
 
 ### Your Internet Service Provider or/and Hosting Provider capabilities and contact details. 
 Internet Service Provider 1 | Details
