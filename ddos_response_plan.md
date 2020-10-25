@@ -16,7 +16,9 @@ Filed | Details
 Name |
 Date | 
 Situation | 
-Impact | 
+Consequences and impacts | 
+Resources | 
+Public, political and media interest | 
 
 ### As incident activate standard communications channels:
 Channel | Details
@@ -64,6 +66,15 @@ Your links/services capacity: |
 Service/Communications/upstream provider network capacity: | 
 Service/Communications/upstream provider DDoS mitigation capabilities: | _Remotely-Triggered Black Hole (RTBH) Routing, Scrubbing, Flowspec mitigations_
 Alternative links/providers | 
+
+Consider in your response:
+* Objectives to achieve
+* Priorities
+* Resources needed
+* Coordination required
+* Communications required
+* Local legislation and regulatory requirements
+* Contractual obligations
 
 ## Post-incident review and improvements
 * Produce the incident report (Include what went well what did not go well).
