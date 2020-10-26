@@ -20,7 +20,7 @@ Consequences and impacts |
 Resources | 
 Public, political and media interest | 
 
-### As incident activate standard communications channels:
+### As incident controller activate standard communications channels:
 Channel | Details
 -----------|-----------
 Phone Bridge | 
@@ -44,8 +44,9 @@ Depending on obligations, the following interested parties have to be notified i
 ## List Critical Systems and their details
 * DNS (both authoritative and recursive)
 * Publicly facing services and APIs
-* Voice
 * Web site
+* Voice
+* Email
 
 ## Response and recovery actions
 Notify your Internet Service Provider or/and Hosting Provider as soon as possible.
