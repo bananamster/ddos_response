@@ -42,6 +42,7 @@ Depending on obligations, the following interested parties have to be notified i
 * Suppliers
 
 ## List Critical Systems and their details
+* Internet-facing firewalls, routers, load balancers and other relevant network equipment and capacity for each of these components.
 * DNS (both authoritative and recursive)
 * Publicly facing services and APIs
 * Web site
