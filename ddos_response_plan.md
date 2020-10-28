@@ -58,6 +58,7 @@ Contact details: |
 Your links/services capacity: | 
 Service/Communications/upstream provider network capacity: | 
 Service/Communications/upstream provider DDoS mitigation capabilities: | _Remotely-Triggered Black Hole (RTBH) Routing, Scrubbing, Flowspec mitigations_
+DDoS mitigation services you subscribe to and SLAs | 
 Alternative links/providers | 
 
 Hosting Provider 1 | Details
@@ -65,7 +66,8 @@ Hosting Provider 1 | Details
 Contact details: |
 Your links/services capacity: | 
 Service/Communications/upstream provider network capacity: | 
-Service/Communications/upstream provider DDoS mitigation capabilities: | _Remotely-Triggered Black Hole (RTBH) Routing, Scrubbing, Flowspec mitigations_
+Service/Communications/upstream provider DDoS mitigation capabilities: | _Scrubbing, Filterning, Absorbing_
+DDoS mitigation services you subscribe to and SLAs | 
 Alternative links/providers | 
 
 ### Consider in your response:
@@ -76,6 +78,8 @@ Alternative links/providers |
 * Communications required
 * Local legislation and regulatory requirements
 * Contractual obligations
+
+
 
 ## Post-incident review and improvements
 * Produce the incident report (Include what went well what did not go well).
